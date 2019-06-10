@@ -1,0 +1,13 @@
+C:\Users\leand\source\repos\projetoPC2\projetoPC2\bin\Debug\projetoPC2.exe.config
+C:\Users\leand\source\repos\projetoPC2\projetoPC2\bin\Debug\projetoPC2.exe
+C:\Users\leand\source\repos\projetoPC2\projetoPC2\bin\Debug\projetoPC2.pdb
+C:\Users\leand\source\repos\projetoPC2\projetoPC2\obj\Debug\projetoPC2.csprojAssemblyReference.cache
+C:\Users\leand\source\repos\projetoPC2\projetoPC2\obj\Debug\projetoPC2.Form1.resources
+C:\Users\leand\source\repos\projetoPC2\projetoPC2\obj\Debug\projetoPC2.frmCliente.resources
+C:\Users\leand\source\repos\projetoPC2\projetoPC2\obj\Debug\projetoPC2.frmFornecedor.resources
+C:\Users\leand\source\repos\projetoPC2\projetoPC2\obj\Debug\projetoPC2.frmProduto.resources
+C:\Users\leand\source\repos\projetoPC2\projetoPC2\obj\Debug\projetoPC2.Properties.Resources.resources
+C:\Users\leand\source\repos\projetoPC2\projetoPC2\obj\Debug\projetoPC2.csproj.GenerateResource.cache
+C:\Users\leand\source\repos\projetoPC2\projetoPC2\obj\Debug\projetoPC2.csproj.CoreCompileInputs.cache
+C:\Users\leand\source\repos\projetoPC2\projetoPC2\obj\Debug\projetoPC2.exe
+C:\Users\leand\source\repos\projetoPC2\projetoPC2\obj\Debug\projetoPC2.pdb
